@@ -1,2 +1,2 @@
 # data
-Canadian Parliament Vote Records
+Canadian Parliament Voting Records
