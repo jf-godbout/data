@@ -4,7 +4,7 @@
 
 How to cite: 
 
-**Godbout, Jean-François and Bjørn Høyland. 2017. Canadian Parliament Voting Data, 1867-2015. Compiled by Jean-François Godbout, University of Montreal. Political Science Department. 
+**Godbout, Jean-François and Bjørn Høyland. 2017. Canadian Parliament Voting Data, 1867-2015. Compiled by Jean-François Godbout, University of Montreal. Political Science Department.**
 
 Scope of study:
 
